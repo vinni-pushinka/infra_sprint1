@@ -1,0 +1,5 @@
+IP: 51.250.106.125;
+name_taski: https://taskifromhaski.myftp.org/;
+name_kittygram: https://vinnykittygram.didns.ru/;
+login: yc-user;
+password: For_Review_2023;
